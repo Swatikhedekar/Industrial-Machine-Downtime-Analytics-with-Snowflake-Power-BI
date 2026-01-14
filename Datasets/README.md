@@ -1,5 +1,3 @@
-![Project Banner](Assets/Picture1.png)
-
 ## About Dataset
 The readings represent continuous operational data collected from machines on each 
 shop floor. These readings capture key parameters such as pressure, temperature, torque, 
